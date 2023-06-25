@@ -1,7 +1,9 @@
 Status
 ======
 
-I don't maintain Sculptgl anymore (except small/minor fixes).
+Currently editing in my free time.  Below is the original Description:
+
+
 
 SculptGL - WebGL sculpting
 ==========================
